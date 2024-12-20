@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c01b803b-5d15-4097-a1c7-ffe074cc1c67)# devops_cicd
+# devops_cicd
 [![LINT-TEST-BUILD-CHECK](https://github.com/M0untain13/devops_cicd/actions/workflows/cicd.yml/badge.svg?branch=dev)](https://github.com/M0untain13/devops_cicd/actions/workflows/cicd.yml)
 ##
 Работу выполнили Ракитин Арсений и Золотарёв Данил, группа ИТХ-2-2021.
